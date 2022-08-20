@@ -34,5 +34,5 @@ Learned about what goes into a blog website. Further experimented with CSS anima
 
 Here are some related projects
 
-[Portfolio Website](https://github.com/edpark0/HobbyBlogWebsite)
+[Portfolio Website](https://github.com/edpark0/EdParkPortfolio)
 
