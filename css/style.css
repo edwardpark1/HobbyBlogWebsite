@@ -46,6 +46,14 @@ main {
   position: relative;
 }
 
+q, blockquote {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 600;
+}
+
 .primary-nav {
   padding: 1.5rem 2rem;
   background: rgba(0, 0, 0, 0.5);
@@ -566,7 +574,7 @@ a:hover .image-transition,
 }
 
 .ingredients {
-  list-style:inside square;
+  list-style: inside square;
 }
 
 .directions {
