@@ -569,6 +569,10 @@ a:hover .image-transition,
   list-style:inside square;
 }
 
+.directions {
+  list-style: inside decimal;
+}
+
 @media all and (min-width: 500px) {
   article header {
     flex-flow: row nowrap;
