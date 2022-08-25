@@ -36,7 +36,7 @@ body {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
-ul {
+ul, ol {
   font-size: 1.3rem;
   line-height: 115%;
 }
@@ -302,7 +302,7 @@ h4 {
 h5 {
   font-weight: 600;
   font-size: 1.5rem;
-  margin-bottom: 15px;
+  margin: 15px 0;
   line-height: 110%;
 }
 
@@ -563,6 +563,10 @@ a:hover .image-transition,
   border-bottom: 1px solid black;
   margin: 20px 0;
   padding-bottom: 20px;
+}
+
+.ingredients {
+  list-style:inside square;
 }
 
 @media all and (min-width: 500px) {
